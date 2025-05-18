@@ -7,7 +7,6 @@
         </shape>
     </item>
 
-    <!-- Trạng thái mặc định -->
     <item>
         <shape android:shape="rectangle">
             <solid android:color="#6E24F2" />
