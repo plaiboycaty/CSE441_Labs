@@ -1,0 +1,5 @@
+CREATE TABLE tbsach (
+    masach TEXT PRIMARY KEY,
+    tensach TEXT,
+    gia REAL
+);
