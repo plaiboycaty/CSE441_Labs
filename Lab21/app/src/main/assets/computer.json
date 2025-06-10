@@ -1,0 +1,23 @@
+{
+  "Sanpham":
+  [
+    {
+      "MaSP": "SP_001",
+      "TenSP": "Dell XPS 13",
+      "Soluong": 100,
+      "DonGia": 150000,
+      "ThanhTien": 15000000,
+      "Hinh": "https://example.com/images/dell_xps_13.jpg"
+    },
+    {
+      "MaSP": "SP_002",
+      "TenSP": "MacBook Pro 16",
+      "Soluong": 140,
+      "DonGia": 140000,
+      "ThanhTien": 19600000,
+      "Hinh": "https://example.com/images/macbook_pro_16.jpg"
+    }
+  ],
+  "MaDM" : "DM01",
+    "TenDM" : "Hàng máy tính"
+}
